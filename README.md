@@ -44,3 +44,9 @@ int main()
   cout << "Helloworld" << endl;
 }
 ```
+# 代码  
+< font color=red size=3 face="黑体" >
+- 斜体 ———— *斜体*  _斜体_ 
+- 加粗 ———— **加粗**  __加粗__  
+- 删除 ———— ~~删除~~ 
+</font>
