@@ -50,4 +50,4 @@ int main()
   - 加粗 ———— **加粗**  __加粗__  
   - 删除 ———— ~~删除~~ 
 
-<font face="黑体" color=red>我是黑体字</font>
+<font face="黑体" color=#00ffff>我是黑体字</font>
